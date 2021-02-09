@@ -1,6 +1,6 @@
 ### Olá, Seja bem-vindo ao meu Github 👋
 
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fgoogle-chromes-offline-dinosaur-game-CUIA8d&psig=AOvVaw09K4l-RvmH0MXUbpWBGrQi&ust=1612915890327000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjnyYfC2-4CFQAAAAAdAAAAABAY)
+![Image of Yaktocat](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
 
 Atualmente, estou cursando a Graduação em **Sistema de Infoemação**.👨🏿‍💻
 
