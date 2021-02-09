@@ -8,7 +8,7 @@
 <p align="center">
   Atualmente, estou cursando a Graduação em <b>Sistemas de Informação</b>. <br>Eu gosto de Desenvolvimento e Criação.
 </p>
-
+<hr>
 
 <h2 align="center">🔭 Tecnologias exploradas </h2>
 <p align="center">
@@ -16,8 +16,10 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+   Git, GitHub, Python, Java, C#, C++, C 
 </p>
 
+<hr>
 <h2 align="center">📫 Entre em contato </h2>
 <p align="center">
    	<a href="mailto:matheuspimentel.pimentel@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
