@@ -1,5 +1,7 @@
 ### Olá, Seja bem-vindo ao meu Github 👋
 
+<hr>
+
 ![Image of Yaktocat](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
 
 Atualmente, estou cursando a Graduação em **Sistema de Infoemação**.👨🏿‍💻
