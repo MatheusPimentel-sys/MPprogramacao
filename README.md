@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo ao meu Github 👋</h1>
 
 <div align="center">
-   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+   <img src="header.gif" alt="header"/>
 </div>
 
 <h2 align="center">👨🏿‍💻 Quem sou eu </h2>
