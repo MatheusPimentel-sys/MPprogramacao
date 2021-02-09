@@ -9,7 +9,7 @@
 <samp>
    Atualmente, estou cursando a Graduação em <b>Sistema de Infoemação</b>.👨🏿‍💻
 
-Eu gosto de Desenvolvimento e Criação. Tecnologias que estou estudando:
+                  Eu gosto de Desenvolvimento e Criação.
 </samp>
 </p>
 
