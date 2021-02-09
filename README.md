@@ -1,8 +1,10 @@
-### Olá, Seja bem-vindo ao meu Github 👋
+<h1 align="center">Olá, Seja bem-vindo ao meu Github 👋</h1>
 
-<hr>
+<div align="center">
+   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
 
-![Image of Yaktocat](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
+<h2 align="center">👨🏿‍💻 Quem sou eu </h2>
 
 Atualmente, estou cursando a Graduação em **Sistema de Infoemação**.👨🏿‍💻
 
