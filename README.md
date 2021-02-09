@@ -6,7 +6,7 @@
 
 <h2 align="center">👨🏿‍💻 Quem sou eu </h2>
 <p align="center">
-  Atualmente, estou cursando a Graduação em <b>Sistema de Infoemação</b>.Eu gosto de Desenvolvimento e Criação.
+  Atualmente, estou cursando a Graduação em <b>Sistemas de Informação</b>. <br>Eu gosto de Desenvolvimento e Criação.
 </p>
 
 
