@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem-vindo ao meu Github 👋</h1>
+<h1 align="center">Olá, seja bem-vindo ao meu GitHub 👋</h1>
 
 <div align="center">
    <img src="https://github.com/MPprogramacao/MPprogramacao/blob/main/github_banner_readme.jpg" alt="header"/>
@@ -19,7 +19,7 @@
    
 </p>
 <p align="center">
-   Git, GitHub, Python, Java, C#, C++, C 
+   Git, GitHub, Python, Java, C#, C 
 </p>
 
 <hr>
