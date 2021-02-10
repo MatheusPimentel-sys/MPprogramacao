@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo ao meu Github 👋</h1>
 
 <div align="center">
-   <img src="https://github.com/MPprogramacao/MPprogramacao/blob/main/github_banner.jpg?raw=true" alt="header"/>
+   <img src="https://github.com/MPprogramacao/MPprogramacao/blob/main/github_banner_readme.jpg" alt="header"/>
 </div>
 
 <h2 align="center">👨🏿‍💻 Quem sou eu </h2>
