@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem-vindo ao meu GitHub 👋</h1>
+<h1 align="center">Seja bem-vindo ao meu GitHub 👋</h1>
 
 <div align="center">
    <img src="https://github.com/MPprogramacao/MPprogramacao/blob/main/github_banner_readme.jpg" alt="header"/>
@@ -6,7 +6,7 @@
 
 <h2 align="center">👨🏿‍💻 Quem sou eu </h2>
 <p align="center">
-  Atualmente, estou cursando a Graduação em <b>Sistemas de Informação</b>. <br>Eu gosto de Desenvolvimento e Criação.
+  Atualmente, estou cursando a Graduação em <b>Sistemas de Informação</b>. <br>E gosto da área de Desenvolvimento e Criação.
 </p>
 <hr>
 
@@ -19,7 +19,7 @@
    
 </p>
 <p align="center">
-   Git, GitHub, Python, Java, C#, C 
+   Git, GitHub, Python, Java, C#, C, SQL, MySQL, PostgreSQL  
 </p>
 
 <hr>
